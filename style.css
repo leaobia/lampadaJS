@@ -53,7 +53,7 @@ button{
     content: '';
     width: 50%;
     height: 70%;
-    background-image: url("./img/lampon.PNG");
+    background-image: url("./img/lampon-removebg-preview.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -63,7 +63,7 @@ button{
     content: '';
     width: 50%;
     height: 70%;
-    background-image: url("./img/lampoff.PNG");
+    background-image: url("./img/lampoff-removebg-preview.png");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
