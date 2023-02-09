@@ -25,10 +25,6 @@ body{
     content: '';
     width: 50%;
     height: 70%;
-    background-image: url("./img/lampoff.PNG");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #buttons{
@@ -51,4 +47,24 @@ button{
 
 #off{
     background-color: red;
+}
+
+.ligado{
+    content: '';
+    width: 50%;
+    height: 70%;
+    background-image: url("./img/lampon.PNG");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.desligado{
+    content: '';
+    width: 50%;
+    height: 70%;
+    background-image: url("./img/lampoff.PNG");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
